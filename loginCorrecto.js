@@ -1,9 +1,9 @@
 let Password = 'Arnobio740'
-let input = 'arnoboi740'
+let input = 'arnobi740'
 
-let result = (input == Password );
+let result = input == Password;
 
-if (result = true) {
+if (result == true) {
     console.log('Login correcto');
 } else {
     console.log ('Login incorrecto');
