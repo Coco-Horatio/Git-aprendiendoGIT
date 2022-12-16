@@ -1,7 +1,7 @@
 let Password = 'Arnobio740'
 let input = 'arnoboi740'
 
-let result = (imput == Password );
+let result = (input == Password );
 
 if (result = true) {
     console.log('Login correcto');
